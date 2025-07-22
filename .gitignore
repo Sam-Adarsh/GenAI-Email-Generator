@@ -14,3 +14,6 @@ __pycache__/
 *.pyd
 *.log
 .DS_Store
+
+# Ignore environment variables
+.env
