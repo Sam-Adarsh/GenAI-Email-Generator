@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter Notebooks
+*.ipynb
+
+# Ignore ChromaDB/Vector DB storage
+vectorstore/
+
+# Ignore __pycache__ and other temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
